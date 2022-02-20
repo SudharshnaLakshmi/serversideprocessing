@@ -14,7 +14,7 @@ Use views.py to execute the coding in serverside.
 ### Step 4:
 Mention the path of the website in urls.py.
 ### Step 5:
-Publish the website in the given URL.
+Publish the website in the given URL : http://sudharshna.student.saveetha.in/
 
 ## PROGRAM :
 
@@ -147,4 +147,4 @@ urlpatterns = [
 ![Output](.//output.png)
 
 ## Result:
-A website to perform mathematical calculations in server side is created.
+Thus a website is designed to perform mathematical calculations in server side and is hosted at http://sudharshna.student.saveetha.in/
